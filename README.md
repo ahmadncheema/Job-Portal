@@ -1,2 +1,1 @@
-# Job-Portal
-Initial Job Portal Prototype for RegimentStaffing
+# job-portal-website
